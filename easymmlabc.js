@@ -1,5 +1,3 @@
-import { SyntaxError, parse } from "https://cdn.jsdelivr.net/gh/cat2151/mml2abc/dist/mml2abc.mjs";
-
 const easymml = {};
 easymml.mmlId = "mml";
 
@@ -16,7 +14,7 @@ easymml.play = function() {
   let abc = "";
 
   try {
-    abc = parse(mml);
+    abc = window.mml2abc.parse(mml);
   } catch (error) {
     console.error(error);
   }
