@@ -16,8 +16,10 @@ const mmlTemplates = [
 
   ["音色(MIDI Program Change)",
   `@0'>d1gb<f+' @2'>d1gb<f+' @4'>d1gb<f+' @5'>d1gb<f+'
-  @18'>d1gb<f+' @52'>d1gb<f+'
-  `],
+  @18'>d1gb<f+' @52'>d1gb<f+'`],
+
+  ["ABC小節線",
+  `e1 /*|*/ c1`],
 
   ["synth bass and synth strings",
   `t150 @51 o 'c1egb' 'd1f+a<c+';
