@@ -25,6 +25,43 @@ const mmlTemplates = [
   `t150 @51 o 'c1egb' 'd1f+a<c+';
   @38 l8 >>[c<c>cc<c>c<c>c]2`],
 
+  ["drum",
+  `@128 >>>   d+eff+gg+aa+b`],
+  ["drum",
+  `@128 >> cc+dd+eff+gg+aa+b`],
+  ["drum",
+  `@128 >  cc+dd+eff+gg+aa+b`],
+  ["drum",
+  `@128    cc+dd+eff+gg+aa+b`],
+  ["drum",
+  `@128 <  cc+dd+eff+gg+aa+b`],
+  ["drum",
+  `@128 << cc+dd+`],
+
+  ["drum 8beat",
+  `@128 t100 l8 >> ['cf+' f+ 'df+' f+]`],
+
+  ["drum 8beat",
+  `@128 t100 l8 >> ['cg+' g+ 'dg+' g+]`],
+
+  ["drum 8beat",
+  `@128 t100 l8 >> ['ca+' a+ 'da+' a+]`],
+
+  ["drum 8beat",
+  `@128 t100 l8 >> ['c<d+''<d+''d<d+''<d+']`],
+
+  ["drum 8beat",
+  `@128 t100 l8 >> ['c<e+''<e+''d<e+''<e+']`],
+
+  ["drum 8beat",
+  `@128 t100 l8 >> ['c<f''<f''d<f''<f']`],
+
+  ["drum 8beat",
+  `@128 t100 l8 >> ['c<f+''<f+''d<f+''<f+']`],
+
+  ["drum 8beat",
+  `@128 t100 l8 >> ['c<b''<b''d<b''<b']`],
+
   ["PC000 Acoustic Grand Piano", `@000'>d1gb<f+'`],
   ["PC001 Bright Acoustic Piano", `@001'>d1gb<f+'`],
   ["PC002 Electric Grand Piano (usually modeled after Yamaha CP-70)", `@002'>d1gb<f+'`],
