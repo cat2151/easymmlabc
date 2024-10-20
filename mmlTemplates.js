@@ -25,6 +25,10 @@ const mmlTemplates = [
   `t150 @51 v11 o 'c1egb' 'd1f+a<c+';
   @38 v12 l8 >>[c<c>cc<c>c<c>c]2`],
 
+  ["タイムシフト機能 !! を書いた場所から演奏します",
+  `@0'>d1gb<f+' @2'>d1gb<f+' @4'>d1gb<f+' @5'>d1gb<f+' @18'>d1gb<f+'
+  !! @52'>d1gb<f+'`],
+
   ["drum",
   `@128 >>>   d+eff+gg+aa+b`],
   ["drum",
