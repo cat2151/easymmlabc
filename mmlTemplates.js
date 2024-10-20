@@ -21,6 +21,9 @@ const mmlTemplates = [
   ["ABC小節線",
   `e1 /*|*/ c1`],
 
+  ["ABCタイと、小節線をまたぐタイ",
+  `l8 @18 e2. /*-*/ e g /*-|*/ g1; @18 o4 c1 /*|*/ c1`],
+
   ["synth bass and synth strings",
   `t150 @51 v11 o 'c1egb' 'd1f+a<c+';
   @38 v12 l8 >>[c<c>cc<c>c<c>c]2`],
